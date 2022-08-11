@@ -1,0 +1,57 @@
+.welcome_page {
+    color: blanchedalmond;
+    font-size: 30px;
+    padding: 9px;
+    text-align: center;
+    color: green;
+    background: whitesmoke;
+}
+.main_div{
+    display: flex;
+}
+.form_section {
+    margin-top: 23px;
+    padding: 10px;
+    margin-bottom: 23px;
+    background: aliceblue;
+    width: 246px;
+    height: 618px;
+    border-radius: 16px;
+}
+form {
+    padding: 13px;
+}
+
+form input {
+    width: 136px;
+    padding: 12px;
+    background: rgb(131, 184, 131);
+    font-size: 14px;
+    border-radius: 3px solid rgb(106, 139, 106) ;
+    cursor: pointer;
+}
+form input:hover{
+    width: 136px;
+    padding: 12px;
+    background: rgb(124, 153, 124);
+    font-size: 14px;
+    border-radius: 3px solid rgb(106, 139, 106) ;
+    cursor: pointer;
+}
+
+.main_data{
+    margin-top: 23px;
+    padding: 10px;
+    margin-bottom: 23px;
+    background: aliceblue;
+    width: 1116px;
+    /* height: auto; */
+    margin-left: 10px;
+    border-radius: 16px;
+    
+}
+.table{
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
